@@ -1,0 +1,8 @@
+Propagation = Average
+Budget = 5
+MaxDepth = 2
+TotalGenerated = 500
+TotalExpanded = 125
+Time = 0.00 seconds
+Expanded/Second = 31685
+Score = 1
